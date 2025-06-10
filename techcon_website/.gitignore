@@ -1,0 +1,65 @@
+# Ignore system/user folders
+Application Data/
+Cookies/
+Local Settings/
+My Documents/
+NetHood/
+PrintHood/
+Recent/
+SendTo/
+Start Menu/
+Templates/
+AppData/
+Contacts/
+Documents/
+Downloads/
+Favorites/
+Links/
+Music/
+Pictures/
+Saved Games/
+Searches/
+Videos/
+OneDrive/
+
+# Ignore system files
+NTUSER.*
+ntuser.*
+*.regtrans-ms
+*.blf
+*.ini
+
+# VirtualBox
+.VirtualBox/
+VirtualBox VMs/
+
+# Vagrant
+.vagrant/
+.vagrant.d/
+
+# VS Code
+.vscode/
+
+# Git and bash config
+.gitconfig
+.bash_history
+.lesshst
+
+# Ruby gems
+.gem/
+
+# Adobe/Cloud files
+Creative Cloud Files*/
+
+# IDE/workspace files
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
+
+# Ignore index if needed (optional)
+# index.html
+
+# Ignore test and temp folders
+test_folder/
+Stopwatches/
